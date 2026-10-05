@@ -15,7 +15,7 @@ Final-year software engineering student at **ESPRIT** in Tunis. I build full sta
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Network access platform**](https://github.com/AhmeDrira/poulina-internet-access-management)<br><sub>Internship, Poulina Group Handling, 2026</sub> | Digitizes internet and network access requests: validation workflow, SSO login and built-in AI assistance | NestJS, React, OAuth 2.0 / SSO |
+| [**Network access platform**](https://github.com/AhmeDrira/poulina-internet-access-management)<br><sub>Internship, Poulina Group Holding, 2026</sub> | Digitizes internet and network access requests: validation workflow, SSO login and built-in AI assistance | NestJS, React, OAuth 2.0 / SSO |
 | [**BMP**](https://github.com/AhmeDrira/PIDEVxBMP)<br><sub>Construction marketplace</sub> | Marketplace for a Tunisian construction company, mobile-first and installable as a PWA | MongoDB, Express, React, Node.js |
 | [**Construction ML models**](https://github.com/AhmeDrira/REPO_NAME)<br><sub>Machine learning, built on top of BMP</sub> | Predicts project risk, estimates the optimal cost and recommends options, trained on business data | Python, scikit-learn, Pandas, CRISP-DM |
 | [**ReportCraft**](https://github.com/AhmeDrira/REPO_NAME)<br><sub>Final-year project (bachelor), Wevioo, 2024</sub> | Generates forms and reports dynamically from a configuration | React, Spring Boot |
