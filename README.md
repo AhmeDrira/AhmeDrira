@@ -17,11 +17,9 @@ Final-year software engineering student at **ESPRIT** in Tunis. I build full sta
 |---|---|---|
 | [**Network access platform**](https://github.com/AhmeDrira/poulina-internet-access-management)<br><sub>Internship, Poulina Group Holding, 2026</sub> | Digitizes internet and network access requests: validation workflow, SSO login and built-in AI assistance | NestJS, React, OAuth 2.0 / SSO |
 | [**BMP**](https://github.com/AhmeDrira/PIDEVxBMP)<br><sub>Construction marketplace</sub> | B2B marketplace for the construction sector, mobile-first and installable as a PWA | MongoDB, Express, React, Node.js |
-| [**Construction ML models**](https://github.com/AhmeDrira/REPO_NAME)<br><sub>Machine learning, built on top of BMP</sub> | Predicts project risk, estimates the optimal cost and recommends options, trained on business data | Python, scikit-learn, Pandas, CRISP-DM |
 | [**AquaSecure**](https://github.com/YassineSayari/Esprit_5TWIN7_CtrAltElite)<br><sub>Team project (4), ESPRIT, 2026</sub> | Drinking-water monitoring platform. My module, **Projects & Funding**, runs its own AI engines with no external API: Monte-Carlo risk simulation (3,000 runs), Bayesian funder reliability, optimal budget allocation (dynamic programming), funder recommendation, anomaly audit, and a tool-using copilot | Laravel 12, PHP, MySQL |
-| [**Sabboura**](SABBOURA_REPO_URL)<br><sub>Team project (4), ESPRIT, 2026</sub> | Educational platform with an AI assistant: dropout detection, learner clustering and adaptive learning paths | Django, React, scikit-learn |
+| [**Sabboura**](https://github.com/YassineSayari/sabboura)<br><sub>Team project (4), ESPRIT, 2026</sub> | Educational platform with an AI assistant: dropout detection, learner clustering and adaptive learning paths | Django, React, scikit-learn |
 | [**SmartGrid**](https://github.com/Mehdi-Safraoui/Smart_Grid)<br><sub>Team project (4), ESPRIT, 2026</sub> | Smart grid modelled as an OWL ontology with SPARQL queries and an NLP assistant that turns French questions into SPARQL, without an LLM. I built the consumption and storage parts | OWL, SPARQL, FastAPI, spaCy |
-| [**ReportCraft**](REPORTCRAFT_REPO_URL)<br><sub>Final-year project (bachelor), Wevioo, 2024</sub> | Generates forms and reports dynamically from a configuration | React, Spring Boot |
 
 ## How I ship
 
