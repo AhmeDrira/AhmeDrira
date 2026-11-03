@@ -3,22 +3,25 @@
   <img alt="Ahmed Amine Drira, full stack developer: from business need to production" src="./assets/header-light.svg" width="100%">
 </picture>
 
-Final-year software engineering student at **ESPRIT** in Tunis. I build full stack applications for web, mobile and desktop, and I take them all the way to deployment with Docker and CI/CD. Four internships taught me to start from the business need, not from the framework.
+Final-year software engineering student at **ESPRIT** in Tunis. I build full stack applications, ship them with Docker and CI/CD, and add machine learning where it solves a real business problem: prediction, simulation, clustering and recommendation. Four internships taught me to start from the business need, not from the framework.
 
 > [!NOTE]
-> **Looking for a final-year internship (PFE) starting January 2027.** Full stack development first, and open to AI, cloud or security topics.
+> **Looking for a 6-month final-year internship (PFE) starting January 2027.** Full stack development, DevOps and applied AI (machine learning). Based in Tunisia, available for remote interviews and ready to relocate to Europe.
 > Reach me on [LinkedIn](https://www.linkedin.com/in/ahmed-amine-drira/) or at [ahmed.a.drira@gmail.com](mailto:ahmed.a.drira@gmail.com).
 
 ## Selected work
 
-<!-- Replace each REPO_NAME with the real repository name. Remove a row if the repo is private. -->
+<!-- Replace SABBOURA_REPO_URL and REPORTCRAFT_REPO_URL with the real links. Remove a row if its repository is private. -->
 
 | Project | What it does | Stack |
 |---|---|---|
 | [**Network access platform**](https://github.com/AhmeDrira/poulina-internet-access-management)<br><sub>Internship, Poulina Group Holding, 2026</sub> | Digitizes internet and network access requests: validation workflow, SSO login and built-in AI assistance | NestJS, React, OAuth 2.0 / SSO |
-| [**BMP**](https://github.com/AhmeDrira/PIDEVxBMP)<br><sub>Construction marketplace</sub> | Marketplace for a Tunisian construction company, mobile-first and installable as a PWA | MongoDB, Express, React, Node.js |
+| [**BMP**](https://github.com/AhmeDrira/PIDEVxBMP)<br><sub>Construction marketplace</sub> | B2B marketplace for the construction sector, mobile-first and installable as a PWA | MongoDB, Express, React, Node.js |
 | [**Construction ML models**](https://github.com/AhmeDrira/REPO_NAME)<br><sub>Machine learning, built on top of BMP</sub> | Predicts project risk, estimates the optimal cost and recommends options, trained on business data | Python, scikit-learn, Pandas, CRISP-DM |
-| [**ReportCraft**](https://github.com/AhmeDrira/REPO_NAME)<br><sub>Final-year project (bachelor), Wevioo, 2024</sub> | Generates forms and reports dynamically from a configuration | React, Spring Boot |
+| [**AquaSecure**](https://github.com/YassineSayari/Esprit_5TWIN7_CtrAltElite)<br><sub>Team project (4), ESPRIT, 2026</sub> | Drinking-water monitoring platform. My module, **Projects & Funding**, runs its own AI engines with no external API: Monte-Carlo risk simulation (3,000 runs), Bayesian funder reliability, optimal budget allocation (dynamic programming), funder recommendation, anomaly audit, and a tool-using copilot | Laravel 12, PHP, MySQL |
+| [**Sabboura**](SABBOURA_REPO_URL)<br><sub>Team project (4), ESPRIT, 2026</sub> | Educational platform with an AI assistant: dropout detection, learner clustering and adaptive learning paths | Django, React, scikit-learn |
+| [**SmartGrid**](https://github.com/Mehdi-Safraoui/Smart_Grid)<br><sub>Team project (4), ESPRIT, 2026</sub> | Smart grid modelled as an OWL ontology with SPARQL queries and an NLP assistant that turns French questions into SPARQL, without an LLM. I built the consumption and storage parts | OWL, SPARQL, FastAPI, spaCy |
+| [**ReportCraft**](REPORTCRAFT_REPO_URL)<br><sub>Final-year project (bachelor), Wevioo, 2024</sub> | Generates forms and reports dynamically from a configuration | React, Spring Boot |
 
 ## How I ship
 
@@ -38,10 +41,9 @@ AI coding agents are part of my daily workflow. I use them to move faster, and I
 
 | | Main | Also worked with |
 |---|---|---|
-| **Web** | React, NestJS, Spring Boot | Angular, Node.js / Express, Django, Laravel, Symfony |
+| **Web** | React, NestJS, Spring Boot | Angular, Node.js / Express, Django, Laravel, Symfony, FastAPI |
 | **Mobile & desktop** | React Native | Android, JavaFX, PWA |
-| **AI** | LLM integration, prompt engineering | scikit-learn, Pandas |
-| **DevOps** | Docker, Git / GitHub | Kubernetes, Jenkins, SonarQube |
-| **Security** | OAuth 2.0 / SSO, JWT and refresh tokens | Role-based access control |
-| **Data** | SQL, MongoDB | GraphQL |
+| **AI & ML** | scikit-learn, Pandas, LLM integration, prompt engineering | Monte-Carlo simulation, clustering, gradient boosting, RAG, LangChain / LangGraph, MCP, n8n |
+| **DevOps** | Docker, Git / GitHub, CI/CD | Jenkins, SonarQube, Kubernetes |
+| **Data & APIs** | SQL, MongoDB, REST | GraphQL, OAuth 2.0 / SSO, JWT |
 | **Languages** | Java, TypeScript, Python | JavaScript, PHP |
